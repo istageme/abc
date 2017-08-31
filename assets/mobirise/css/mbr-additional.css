@@ -579,8 +579,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
+#scrollToTop a {
+  border-radius: 100px;
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -1706,7 +1706,7 @@ body {
   }
 }
 .cid-qtRJ9nCBbA {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/17973695-1260742930645867-2745702424293595650-o-1920x1100.jpg");
 }
 .cid-qtRJ9syn4H {
   padding-top: 60px;
